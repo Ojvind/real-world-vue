@@ -30,6 +30,17 @@
       "time": "12:00",
       "petsAllowed": true,
       "organizer": "Metal maniacs"
+    },
+    {
+      "id": 4,
+      "category": "ska-punk",
+      "title": "Sublime",
+      "description": "Smooth, aggresive Ska-punk",
+      "location": "Long Beach, LA",
+      "date": "2021-07-04",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "Long Beach Beach Club"
     }
   ]
 }
