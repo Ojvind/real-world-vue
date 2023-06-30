@@ -17,7 +17,7 @@
         }, 3000)
 
         this.$router.push({
-          name: 'EventEdit',
+          name: 'EventDetails',
           params: { id: this.event.id }
         })
       }
